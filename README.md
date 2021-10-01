@@ -8,4 +8,4 @@ Hey it's me Sudarshan Rai with 3+ years of web application and  App development 
 
 
 ### Connect with me 
-<a href="https://sudarshanrai.com.np" target="_blank"> Portfolio </a> | <a href="https://www.instagram.com/shudarshan_offical"> Instagram </a> | <a href="https://www.sololearn.com/Profile/4714357"> SoloLearn </a>
+<a href="https://sudarshanrai.com.np" target="_blank"> Portfolio </a> | <a href="https://www.sololearn.com/Profile/4714357"> SoloLearn </a>
