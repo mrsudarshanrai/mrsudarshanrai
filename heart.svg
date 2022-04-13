@@ -7,8 +7,8 @@
  .heart-loader {
 	 position: absolute;
 	 display: block;
-	 left: 50%;
-	 top: 50%;
+	 left:39%;
+	 top:30%;
 	 margin-top: -90px;
 	 width: 180px;
 	 height: 180px;
@@ -154,6 +154,17 @@
 		 fill: #e21737;
 	}
 }
+ .other {
+	 position: absolute;
+	 left: 0;
+	 bottom: 0.5rem;
+	 width: 100%;
+	 text-align: right;
+}
+ .other__link {
+	 font-size: 1.3rem;
+	 margin: 0 1rem;
+}
   </style>
   <g class="heart-loader__group">
     <path class="heart-loader__square" stroke-width="1" fill="none" d="M0,30 0,90 60,90 60,30z"/>
@@ -162,3 +173,7 @@
     <path class="heart-loader__heartPath" stroke-width="2" d="M60,30 a30,30 0 0,1 0,60 L0,90 0,30 a30,30 0 0,1 60,0" />
   </g>
 </svg>
+<div class="other">
+  <a href="https://codepen.io/suez/pen/doMKLP/" target="_blank" class="other__link">Pin Animation</a>
+  <a href="https://codepen.io/suez/pen/MwJdRy/" target="_blank" class="other__link">Logo Animation</a>
+</div>
