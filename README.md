@@ -5,6 +5,8 @@ Hey it's me Sudarshan Rai with 5+ years of web application and  App development 
 
 ### Github Stats
 ![sudarshan rai stats](https://github-readme-stats.vercel.app/api?username=mrsudarshanrai&show_icons=true)
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsudarshanrai&layout=compact)](https://github.com/mrsudarshanrai)
 
 
 ### Connect with me 
