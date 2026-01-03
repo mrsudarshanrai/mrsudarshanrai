@@ -1,13 +1,17 @@
+<h1 align="center">Hi, I'm Sudarshan Rai 👋</h1>
 
-<h2 align="center"> Hello, I am Sudarshan Rai </h2>
+<p align="center">
+  <strong>Senior Web & App Developer</strong>
+</p>
 
-Hey it's me Sudarshan Rai with 5+ years of web application and  App development experience. Javascript being my core technical skill, I don't limit within it. I do more study and research to keep updated with the latest technologies.
+<p align="center">
+  With over 5+ years of experience in building robust web and mobile applications, I specialize in the JavaScript ecosystem. I am a lifelong learner and researcher, constantly exploring emerging tech to stay at the cutting edge of the industry.
+</p>
 
-### Github Stats
-![sudarshan rai stats](https://github-readme-stats.vercel.app/api?username=mrsudarshanrai&show_icons=true)
-###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsudarshanrai&layout=compact)](https://github.com/mrsudarshanrai)
+<p align="center">
+  <a href="https://sudarshanrai.com.np" target="_blank">Portfolio</a> • 
+  <a href="https://www.sololearn.com/Profile/4714357" target="_blank">SoloLearn</a> •
+  <a href="https://www.linkedin.com/in/mr-sudarsh" target="_blank">LinkedIn</a>
+</p>
 
-
-### Connect with me 
-<a href="https://sudarshanrai.com.np" target="_blank"> Portfolio </a> | <a href="https://www.sololearn.com/Profile/4714357"> SoloLearn </a>
+---
