@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sudarshan Rai 👋</h1>
 
 <p align="center">
-  <strong>Senior Web & App Developer</strong>
+  <strong>Software Developer</strong>
 </p>
 
 <p align="center">
